@@ -1,3 +1,6 @@
+body {
+  background: url(../verbs/images/pix.jpg) no-repeat;
+}
 #verbs-container{
     margin: 0 35%;
   }
@@ -7,9 +10,10 @@
   }
   
   #next{
-    margin-top: 10rem;
+    margin-top: 20rem;
     cursor: pointer;
     color: green;
+    margin: 15% 45%;
   }
   
   .rightAnswer, .rightAnswer:hover{
